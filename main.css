@@ -23,6 +23,12 @@
    text-decoration: none;
  }
 
+
+ .home {
+   display: flex;
+   justify-content: center;
+ }
+
  .content {
    position: absolute;
    left: 50%;
